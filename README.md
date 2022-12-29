@@ -5,7 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/BRLMPrinterKit.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit)
 [![Platform](https://img.shields.io/cocoapods/p/BRLMPrinterKit.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit)
 
-This project is only a Pod for the Brother SDK v4.0.2.
+This project has been forked from [Jonathan Tribouharet's BRLMPrinterKit](https://github.com/jonathantribouharet/BRLMPrinterKit)
+This project is only a Pod for the Brother SDK v4.6.1.
 
 More information here:
 [https://support.brother.com/g/s/es/htmldoc/mobilesdk/index.html](https://support.brother.com/g/s/es/htmldoc/mobilesdk/index.html)
@@ -13,7 +14,7 @@ More information here:
 
 ## Requirements
 
-- iOS 9.0 or higher
+- iOS 11.0 or higher
 
 ## Installation
 
@@ -27,7 +28,7 @@ pod 'BRLMPrinterKit'
 ## Author
 
 - [Jonathan VUKOVICH TRIBOUHARET](https://github.com/jonathantribouharet) ([@johnvuko](https://twitter.com/johnvuko))
-
+- [Bernard Radman](https://github.com/BernardRadman)
 
 ## License
 

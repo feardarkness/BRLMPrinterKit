@@ -12,7 +12,7 @@
 //  an object of the model-specific subclass, e.g. PJ673PrintSettingsViewController.
 
 #import <UIKit/UIKit.h>
-#import "PrintSettings.h"
+#import <BRLMPrinterKit/PrintSettings.h>
 
 // The following mask constants allow customizing the options available in the PrintSettingsViewController.
 // Combine these using the OR (|) operator to select only the options you want to be available.

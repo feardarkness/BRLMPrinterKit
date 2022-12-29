@@ -1,12 +1,12 @@
 //
-//  BRLMPrinterAddress.h
+//  BRLMChannel.h
 //  BRLMPrinterKit
 //
 //  Copyright © 2020 Brother Industries, Ltd. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
-#import "BRLMPrinterDefine.h"
+#import <BRLMPrinterKit/BRLMPrinterDefine.h>
 
 // Set the "serialNumber" that can be getting from EAAccessory.
 // Or set the "Bluetooth Address" that can be getting from your printer (*by self-printing and so on).
