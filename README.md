@@ -1,11 +1,11 @@
-# BRLMPrinterKit
+# BRLMPrinterKit_v4
 
-[![CI Status](https://img.shields.io/travis/jonathantribouharet/BRLMPrinterKit.svg?style=flat)](https://travis-ci.org/jonathantribouharet/BRLMPrinterKit)
-[![Version](https://img.shields.io/cocoapods/v/BRLMPrinterKit.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit)
-[![License](https://img.shields.io/cocoapods/l/BRLMPrinterKit.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit)
-[![Platform](https://img.shields.io/cocoapods/p/BRLMPrinterKit.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit)
+[![Version](https://img.shields.io/cocoapods/v/BRLMPrinterKit_v4.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit_v4)
+[![License](https://img.shields.io/cocoapods/l/BRLMPrinterKit_v4.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit_v4)
+[![Platform](https://img.shields.io/cocoapods/p/BRLMPrinterKit_v4.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit_v4)
 
-This project has been forked from [Jonathan Tribouharet's BRLMPrinterKit](https://github.com/jonathantribouharet/BRLMPrinterKit)
+This project has been forked from [Jonathan Tribouharet's BRLMPrinterKit](https://github.com/jonathantribouharet/BRLMPrinterKit).
+
 This project is only a Pod for the Brother SDK v4.6.1.
 
 More information here:
@@ -18,11 +18,11 @@ More information here:
 
 ## Installation
 
-BRLMPrinterKit is available through [CocoaPods](https://cocoapods.org). To install
+BRLMPrinterKit_v4 is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'BRLMPrinterKit'
+pod 'BRLMPrinterKit_v4'
 ```
 
 ## Author
@@ -32,4 +32,4 @@ pod 'BRLMPrinterKit'
 
 ## License
 
-BRLMPrinterKit is available under the MIT license. See the LICENSE file for more info.
+BRLMPrinterKit_v4 is available under the MIT license. See the LICENSE file for more info.
