@@ -10,7 +10,7 @@ More information here:
 
 ## Requirements
 
-- iOS 11.0 or higher
+- iOS 12.0 or higher
 
 ## Installation
 
