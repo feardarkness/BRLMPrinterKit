@@ -25,6 +25,7 @@ pod 'BRLMPrinterKit_v4.6.7'
 
 - [Jonathan VUKOVICH TRIBOUHARET](https://github.com/jonathantribouharet) ([@johnvuko](https://twitter.com/johnvuko))
 - [Bernard Radman](https://github.com/BernardRadman)
+- Ariel Alvarado
 
 ## License
 
