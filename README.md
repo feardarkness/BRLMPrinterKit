@@ -1,12 +1,8 @@
 # BRLMPrinterKit_v4
 
-[![Version](https://img.shields.io/cocoapods/v/BRLMPrinterKit_v4.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit_v4)
-[![License](https://img.shields.io/cocoapods/l/BRLMPrinterKit_v4.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit_v4)
-[![Platform](https://img.shields.io/cocoapods/p/BRLMPrinterKit_v4.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit_v4)
-
 This project has been forked from [Jonathan Tribouharet's BRLMPrinterKit](https://github.com/jonathantribouharet/BRLMPrinterKit).
 
-This project is only a Pod for the Brother SDK v4.6.1.
+This project is only a Pod for the Brother SDK v4.6.7.
 
 More information here:
 [https://support.brother.com/g/s/es/htmldoc/mobilesdk/index.html](https://support.brother.com/g/s/es/htmldoc/mobilesdk/index.html)
@@ -22,7 +18,7 @@ BRLMPrinterKit_v4 is available through [CocoaPods](https://cocoapods.org). To in
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'BRLMPrinterKit_v4'
+pod 'BRLMPrinterKit_v4.6.7'
 ```
 
 ## Author
@@ -32,4 +28,4 @@ pod 'BRLMPrinterKit_v4'
 
 ## License
 
-BRLMPrinterKit_v4 is available under the MIT license. See the LICENSE file for more info.
+BRLMPrinterKit_v4.6.7 is available under the MIT license. See the LICENSE file for more info.
